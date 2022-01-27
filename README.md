@@ -1,0 +1,1 @@
+# akeeba-backup-checker
